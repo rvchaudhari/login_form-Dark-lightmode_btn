@@ -4,7 +4,7 @@ function myfunction()
                 var pw = document.forms["myform"]["pass"].value;
                 if(un=="Admin" && pw=="1234")
                 {
-                    window.location.href="welcome.html";
+                    window.location.href="Welcome/index.html";
                 }
                 else
                 {
